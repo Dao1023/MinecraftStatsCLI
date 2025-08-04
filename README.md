@@ -2,4 +2,4 @@
 
 数据为个人生电服务器，为了方便服务器成员参观，现在上传到 Github Pages，数据不定期更新
 
-地址：
+地址：https://dao1023.github.io/MinecraftStatsCLI/
